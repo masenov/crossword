@@ -1,5 +1,7 @@
 ### Crossword ###
 
+(Source code not available as it is property of the company I worked for)
+
 *The game was created during during my internship with Commquest. The purpose is to solve a picture crossword by moving all the available letters. Once a letter is in the correct position, it automatically fix itself to the box.
 *
 
